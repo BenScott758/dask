@@ -1,0 +1,1 @@
+. 2pyXghrarray/tests/test_cupy_sparse.py

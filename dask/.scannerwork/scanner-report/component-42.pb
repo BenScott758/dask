@@ -1,0 +1,1 @@
+* 2pyXFhrarray/tests/test_cupy_random.py

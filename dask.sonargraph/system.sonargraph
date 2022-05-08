@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<ns2:softwareSystem xmlns:ns2="http://www.hello2morrow.com/sonargraph/core" id="71e63bd037abce00768eed475fe5b872" version="12.2.0.728">
+	<description></description>
+	<module name="main" id="bb41d1dbd56a1aaa407a81403da980ad" language="Python">
+		<description></description>
+		<rootPath name="./dask/array"></rootPath>
+	</module>
+</ns2:softwareSystem>
