@@ -38,7 +38,7 @@ jobs:
         run: source continuous_integration/scripts/run_tests.sh
 
       - name: Coverage
-        uses: codecov/codecov-action@v1
+        uses: codecov/codecov-action@v3.1.0
 
   check-hdfs:
     runs-on: ubuntu-latest
